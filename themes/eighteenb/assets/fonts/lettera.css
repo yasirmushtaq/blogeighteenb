@@ -1,0 +1,153 @@
+/*
+ * Legal Disclaimer
+ *
+ * These Fonts are licensed only for use on these domains and their subdomains:
+ * eighteenb.com
+ *
+ * It is illegal to download or use them on other websites.
+ *
+ * While the @font-face statements below may be modified by the client, this
+ * disclaimer may not be removed.
+ *
+ * Lineto.com, 2018
+ */
+
+
+/*
+ *
+ * INSTRUCTIONS
+ *
+ * Copy the Legal Disclaimer and the @font-faces statements to your regular CSS file.
+ * The fonts folder(s) should be placed relative to the regular CSS file.
+ *
+ * You can use either the complete or subsetted fonts:
+ * If you don’t require the entire range of characters, you can use the smaller, subsetted webfonts instead.
+ * See "Glyphs & Languages" for an overview of the characters in the corresponding html file in the root directory of this package.
+ *
+ */
+
+
+/* Complete */
+
+@font-face {
+    font-family: "LL Lettera Pro Bold Web";
+    src: url("lettera/lineto-lettera-pro-bold.eot");
+    src: url("lettera/lineto-lettera-pro-boldd41d.eot?#iefix") format("embedded-opentype"),
+         url("lettera/lineto-lettera-pro-bold.woff2") format("woff2"),
+         url("lettera/lineto-lettera-pro-bold.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "LL Lettera Pro Bold Italic Web";
+    src: url("lettera/lineto-lettera-pro-bolditalic.eot");
+    src: url("lettera/lineto-lettera-pro-bolditalicd41d.eot?#iefix") format("embedded-opentype"),
+         url("lettera/lineto-lettera-pro-bolditalic.woff2") format("woff2"),
+         url("lettera/lineto-lettera-pro-bolditalic.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "LL Lettera Pro Italic Web";
+    src: url("lettera/lineto-lettera-pro-italic.eot");
+    src: url("lettera/lineto-lettera-pro-italicd41d.eot?#iefix") format("embedded-opentype"),
+         url("lettera/lineto-lettera-pro-italic.woff2") format("woff2"),
+         url("lettera/lineto-lettera-pro-italic.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "LL Lettera Pro Light Web";
+    src: url("lettera/lineto-lettera-pro-light.eot");
+    src: url("lettera/lineto-lettera-pro-lightd41d.eot?#iefix") format("embedded-opentype"),
+         url("lettera/lineto-lettera-pro-light.woff2") format("woff2"),
+         url("lettera/lineto-lettera-pro-light.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "LL Lettera Pro Light Italic Web";
+    src: url("lettera/lineto-lettera-pro-lightitalic.eot");
+    src: url("lettera/lineto-lettera-pro-lightitalicd41d.eot?#iefix") format("embedded-opentype"),
+         url("lettera/lineto-lettera-pro-lightitalic.woff2") format("woff2"),
+         url("lettera/lineto-lettera-pro-lightitalic.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "LL Lettera Pro Regular Web";
+    src: url("lettera/lineto-lettera-pro-regular.eot");
+    src: url("lettera/lineto-lettera-pro-regulard41d.eot?#iefix") format("embedded-opentype"),
+         url("lettera/lineto-lettera-pro-regular.woff2") format("woff2"),
+         url("lettera/lineto-lettera-pro-regular.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+/* Subsetted */
+
+@font-face {
+    font-family: "LL Lettera Pro Bold Sub";
+    src: url("lettera_subsetted/lineto-lettera-pro-bold.eot");
+    src: url("lettera_subsetted/lineto-lettera-pro-boldd41d.eot?#iefix") format("embedded-opentype"),
+         url("lettera_subsetted/lineto-lettera-pro-bold.woff2") format("woff2"),
+         url("lettera_subsetted/lineto-lettera-pro-bold.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "LL Lettera Pro Bold Italic Sub";
+    src: url("lettera_subsetted/lineto-lettera-pro-bolditalic.eot");
+    src: url("lettera_subsetted/lineto-lettera-pro-bolditalicd41d.eot?#iefix") format("embedded-opentype"),
+         url("lettera_subsetted/lineto-lettera-pro-bolditalic.woff2") format("woff2"),
+         url("lettera_subsetted/lineto-lettera-pro-bolditalic.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "LL Lettera Pro Italic Sub";
+    src: url("lettera_subsetted/lineto-lettera-pro-italic.eot");
+    src: url("lettera_subsetted/lineto-lettera-pro-italicd41d.eot?#iefix") format("embedded-opentype"),
+         url("lettera_subsetted/lineto-lettera-pro-italic.woff2") format("woff2"),
+         url("lettera_subsetted/lineto-lettera-pro-italic.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "LL Lettera Pro Light Sub";
+    src: url("lettera_subsetted/lineto-lettera-pro-light.eot");
+    src: url("lettera_subsetted/lineto-lettera-pro-lightd41d.eot?#iefix") format("embedded-opentype"),
+         url("lettera_subsetted/lineto-lettera-pro-light.woff2") format("woff2"),
+         url("lettera_subsetted/lineto-lettera-pro-light.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "LL Lettera Pro Light Italic Sub";
+    src: url("lettera_subsetted/lineto-lettera-pro-lightitalic.eot");
+    src: url("lettera_subsetted/lineto-lettera-pro-lightitalicd41d.eot?#iefix") format("embedded-opentype"),
+         url("lettera_subsetted/lineto-lettera-pro-lightitalic.woff2") format("woff2"),
+         url("lettera_subsetted/lineto-lettera-pro-lightitalic.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "LL Lettera Pro Regular Sub";
+    src: url("lettera_subsetted/lineto-lettera-pro-regular.eot");
+    src: url("lettera_subsetted/lineto-lettera-pro-regulard41d.eot?#iefix") format("embedded-opentype"),
+         url("lettera_subsetted/lineto-lettera-pro-regular.woff2") format("woff2"),
+         url("lettera_subsetted/lineto-lettera-pro-regular.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
