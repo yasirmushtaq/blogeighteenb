@@ -23,7 +23,7 @@
 			
 						<!--Footer Widget start-->
 						<div class="footer-widget col-lg-5 col-md-6 col-sm-6 col-12 mb-40 mb-xs-35">
-							<h4 class="title"><span class="text">--SHOPING--</span></h4>
+							<h4 class="title"><span class="text">---SHOPING---</span></h4>
 							<ul class="ft-menu">
 								<li><a href="https://www.eighteenb.com/holidaysets/">Holiday Gift Sets</a></li>								
 								<li><a href="https://www.eighteenb.com/silk-facial-moisturizers/firm-replenish-serum">Firm + Replenish Serum</a></li>
