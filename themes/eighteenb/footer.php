@@ -32,7 +32,7 @@
 								<li><a href="https://www.eighteenb.com/silk-facial-moisturizers/starter-set">Starter Set</a></li>
 							</ul>
 							<div class="seperater"></div>
-							<h4 class="title"><span class="text">--LEARN--</span></h4>
+							<h4 class="title"><span class="text">-LEARN-</span></h4>
 							<ul class="ft-menu">
 								<li><a href="https://www.eighteenb.com/silk-facial-moisturizer-story">The Story</a></li>
 								<li><a href="https://blog.eighteenb.com/">Eighteen B Journal</a></li>								
